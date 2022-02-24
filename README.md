@@ -1,11 +1,14 @@
 ## Olá, eu me chamo Nilde Lima
 
-E sou estudante de desenvolvimento web
+E sou estudante de desenvolvimento web   
 
-  ![avatar nilde](https://user-images.githubusercontent.com/71021401/155538641-dc2bd0c6-484a-4c51-bb3a-2df14aba73ce.png)>
 
 <div align="center">
    <a href="https://github.com/nildenik">
+     
+   ![avatar nilde_Easy](https://user-images.githubusercontent.com/71021401/155554143-9d4c9d67-4f04-4ab5-9a9d-04e0c70a0475.jpg)
+
+     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nildenik&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nildenik&layout=compact&langs_count=7&theme=dracula"/>  
    
