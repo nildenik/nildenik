@@ -1,6 +1,6 @@
-## Olá eu sou Nilde Lima
+## Olá, eu me chamo Nilde Lima
 
-Estudante de desenvolvimento web
+E sou estudante de desenvolvimento web
 
 <div align="center">
   <a href="https://github.com/nildenik">
