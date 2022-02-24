@@ -1,7 +1,5 @@
 ## Olá, eu me chamo Nilde Lima
 
-E sou estudante de desenvolvimento web, graduada em gestão de recursos humanos, em transição de carreira.
-
 
 <div align="center">
    <a href="https://github.com/nildenik">
