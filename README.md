@@ -2,7 +2,6 @@
 
 E sou estudante de desenvolvimento web
 
-
   ![avatar nilde](https://user-images.githubusercontent.com/71021401/155538641-dc2bd0c6-484a-4c51-bb3a-2df14aba73ce.png)>
 
 <div align="center">
