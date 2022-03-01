@@ -1,17 +1,16 @@
-## <div align="header">Olá! eu me chamo Nilde Lima,
+##  Olá! eu me chamo Nilde Lima,
 Sou estudante de desenvolvimento web, graduada em gestão de recursos humanos, em transição de carreira
+   <div height"150px">
    
- 
-![cinza nik1](https://user-images.githubusercontent.com/71021401/156204591-ee88384b-4ac7-45d7-b7fe-04b681e75261.png)
+   ![cinza nik1](https://user-images.githubusercontent.com/71021401/156204591-ee88384b-4ac7-45d7-b7fe-04b681e75261.png)
    
    </div>
  
-<div align="header">
-   <a href="https://github.com/nildenik">
-     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nildenik&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   
+<div>
+  <img height="160px"  src="https://github-readme-stats.vercel.app/api?username=FabioMazuchi&show_icons=true&theme=dark">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMazuchi&layout=compact&langs_count=4&theme=dark">
 </div>
+
   
   ##
   
