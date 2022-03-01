@@ -2,8 +2,7 @@
 Sou estudante de desenvolvimento web, graduada em gestão de recursos humanos, em transição de carreira
    
    
-
- ![avatar nilde_Easy](https://user-images.githubusercontent.com/71021401/155554143-9d4c9d67-4f04-4ab5-9a9d-04e0c70a0475.jpg)
+![desenhoN ik)](https://user-images.githubusercontent.com/71021401/156203090-ac724ca6-22e5-4fab-8030-b049e7d95f24.png)
    
    </div>
  
