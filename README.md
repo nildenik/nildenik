@@ -2,7 +2,7 @@
 Sou estudante de desenvolvimento web, graduada em gestão de recursos humanos, em transição de carreira
    
    
-![desenhoN ik)](https://user-images.githubusercontent.com/71021401/156203090-ac724ca6-22e5-4fab-8030-b049e7d95f24.png)
+![pic nik](https://user-images.githubusercontent.com/71021401/156204076-a07559f6-1dff-4c0c-b129-574ee7c94308.png)
    
    </div>
  
