@@ -4,9 +4,9 @@ Sou estudante de desenvolvimento web, graduada em gestão de recursos humanos, e
    
    
   <div>
-  <img height="160px"  src="https://user-images.githubusercontent.com/71021401/156204591-ee88384b-4ac7-45d7-b7fe-04b681e75261.png">
-  <img height="160px"  src="https://github-readme-stats.vercel.app/api?username=FabioMazuchi&show_icons=true&theme=dark">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMazuchi&layout=compact&langs_count=4&theme=dark">
+  <img height="140px"  src="https://user-images.githubusercontent.com/71021401/156204591-ee88384b-4ac7-45d7-b7fe-04b681e75261.png">
+  <img height="140px"  src="https://github-readme-stats.vercel.app/api?username=FabioMazuchi&show_icons=true&theme=dark">
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMazuchi&layout=compact&langs_count=4&theme=dark">
 
 </div>
 
