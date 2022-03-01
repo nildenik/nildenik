@@ -1,8 +1,8 @@
 ## <div align="header">Olá! eu me chamo Nilde Lima,
 Sou estudante de desenvolvimento web, graduada em gestão de recursos humanos, em transição de carreira
    
-   
-![pic nik](https://user-images.githubusercontent.com/71021401/156204076-a07559f6-1dff-4c0c-b129-574ee7c94308.png)
+ 
+![cinza nik1](https://user-images.githubusercontent.com/71021401/156204591-ee88384b-4ac7-45d7-b7fe-04b681e75261.png)
    
    </div>
  
