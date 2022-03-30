@@ -1,5 +1,5 @@
-##  Olá! eu me chamo Nilde Lima,
-Sou estudante de desenvolvimento web, graduada em gestão de recursos humanos, em transição de carreira
+##  Hi! my name is Nilde Lima,
+I'm a web development student, graduated in human resources management, in career transition
   
    
    
